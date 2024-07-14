@@ -1,4 +1,4 @@
-name: weixin
+name: weixin_tuisong
 on:
   workflow_dispatch:
   schedule: 
